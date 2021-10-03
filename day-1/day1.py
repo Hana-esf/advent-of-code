@@ -12,4 +12,5 @@ for i in numbers:
             if i + j + k == 2020:
                 part2 = i * j * k
 
-print("part1 : ", part1 , "\npart2 : ",part2)
+print("part1 : ", part1)
+print("part2 : ",part2)
